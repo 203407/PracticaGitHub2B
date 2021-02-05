@@ -15,5 +15,6 @@ public class Practica{
         return patas;
     }
     
+    
     public void fabricar(){}   
 }
